@@ -5,7 +5,7 @@ Markdown Tools Directory - see it live @ [`manuscripts.github.io/markdown-tools`
 
 ## How-To Add Your Tools
 
-* Fork the [`/markdown-tools` repo](https://github.com/manuscripts/markdown-tools) on GitHub
+* Fork the [`/markdown-tools`](https://github.com/manuscripts/markdown-tools) repo on GitHub
 * Add a new entry in the [`tools.yml`](https://github.com/manuscripts/markdown-tools/blob/master/tools.yml) file and fill out all fields.
   Example:
 
@@ -38,5 +38,5 @@ Use it as you please with no restrictions whatsoever.
 
 **Questions? Comments?**
 
-Post them to the [wwwmake forum/mailing list](http://groups.google.com/group/wwwmake). Thanks!
+Send them along to the [wwwmake forum/mailing list](http://groups.google.com/group/wwwmake). Thanks!
 

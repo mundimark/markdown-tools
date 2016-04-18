@@ -1,3 +1,12 @@
+- title:    marked
+  author:   Christopher Jeffrey et al
+  github:   chjj/marked
+  formats:  [html]
+  language: javascript
+  package:  https://www.npmjs.com/package/marked
+  stats:
+  - stars:  9098
+
 
 - title:    pandoc
   author:   John MacFarlane et al
@@ -9,6 +18,32 @@
   - stars:  6017
 
 
+- title:    Parsedown
+  author:   Emanuil Rusev et al
+  formats:  [html]
+  github:   erusev/parsedown
+  web:      http://parsedown.org
+  language: php
+  stats:
+  - stars:  3139
+
+- title:    PHP Markdown
+  author:   Michel Fortin et al
+  formats:  [html]
+  github:   michelf/php-markdown
+  web:      https://michelf.ca/projects/php-markdown
+  language: php
+  stats:
+  - stars:  2108
+
+
+- title:    python markdown2
+  author:   Trent Mick
+  formats:  [html]
+  github:   trentm/python-markdown2
+  language: python
+  stats:
+  - stars:  1062
   
 - title:    kramdown
   author:   Thomas Leitner et al
@@ -39,4 +74,23 @@
   stats:
   - stars:   230
 
+
+- title:    MultiMarkdown (MMD) v5
+  author:   Fletcher T. Penney et al
+  formats:  [html,latex]
+  github:   fletcher/MultiMarkdown-5
+  web:      http://fletcherpenney.net/multimarkdown
+  language: c
+  stats:
+  - stars:  70
+
+
+
+- title:    Markdent
+  author:   Dave Rolsky et al
+  formats:  [html]
+  github:   autarch/Markdent
+  language: perl
+  stats:
+  - stars:  4
 
