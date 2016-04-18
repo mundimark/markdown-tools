@@ -1,0 +1,42 @@
+
+- title:    pandoc
+  author:   John MacFarlane et al
+  formats:  [html,latex]
+  github:   jgm/pandoc
+  web:      http://pandoc.org
+  language: haskell
+  stats:    
+  - stars:  6017
+
+
+  
+- title:    kramdown
+  author:   Thomas Leitner et al
+  formats:  [html,latex]
+  github:   gettalong/kramdown  
+  web:      http://kramdown.gettalong.org
+  language: ruby
+  package:  https://rubygems.org/gems/kramdown
+  stats:
+  - stars:     876      
+  - downloads: 4632790
+
+
+- title:    commonmark.js
+  author:   John MacFarlane et al
+  formats:  [html]
+  github:   jgm/commonmark.js
+  language: javascript
+  package:  https://www.npmjs.com/package/commonmark
+  stats:
+  - stars:   288
+
+- title:    cmark
+  author:   John MacFarlane et al
+  formats:  [html]
+  github:   jgm/cmark
+  language: c
+  stats:
+  - stars:   230
+
+
