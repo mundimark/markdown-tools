@@ -5,7 +5,7 @@
   language: javascript
   package:  https://www.npmjs.com/package/marked
   stats:
-  - stars:  9098
+    stars:  9098
 
 
 - title:    pandoc
@@ -15,7 +15,7 @@
   web:      http://pandoc.org
   language: haskell
   stats:    
-  - stars:  6017
+    stars:  6017
 
 
 - title:    Parsedown
@@ -25,7 +25,7 @@
   web:      http://parsedown.org
   language: php
   stats:
-  - stars:  3139
+    stars:  3139
 
 - title:    PHP Markdown
   author:   Michel Fortin et al
@@ -34,7 +34,7 @@
   web:      https://michelf.ca/projects/php-markdown
   language: php
   stats:
-  - stars:  2108
+    stars:  2108
 
 
 - title:    python markdown2
@@ -43,7 +43,7 @@
   github:   trentm/python-markdown2
   language: python
   stats:
-  - stars:  1062
+    stars:  1062
   
 - title:    kramdown
   author:   Thomas Leitner et al
@@ -53,8 +53,8 @@
   language: ruby
   package:  https://rubygems.org/gems/kramdown
   stats:
-  - stars:     876      
-  - downloads: 4632790
+    stars:     876      
+    downloads: 4632790
 
 
 - title:    commonmark.js
@@ -64,7 +64,7 @@
   language: javascript
   package:  https://www.npmjs.com/package/commonmark
   stats:
-  - stars:   288
+    stars:   288
 
 - title:    cmark
   author:   John MacFarlane et al
@@ -72,7 +72,7 @@
   github:   jgm/cmark
   language: c
   stats:
-  - stars:   230
+    stars:   230
 
 
 - title:    MultiMarkdown (MMD) v5
@@ -82,7 +82,7 @@
   web:      http://fletcherpenney.net/multimarkdown
   language: c
   stats:
-  - stars:  70
+    stars:  70
 
 
 
@@ -92,5 +92,5 @@
   github:   autarch/Markdent
   language: perl
   stats:
-  - stars:  4
+    stars:  4
 
