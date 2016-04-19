@@ -1,4 +1,6 @@
+
 - title:    marked
+  desc:     A markdown parser and compiler. Built for speed.
   author:   Christopher Jeffrey et al
   github:   chjj/marked
   formats:  [html]
@@ -9,6 +11,7 @@
 
 
 - title:    pandoc
+  desc:     Universal markup converter
   author:   John MacFarlane et al
   formats:  [html,latex]
   github:   jgm/pandoc
@@ -19,6 +22,7 @@
 
 
 - title:    Parsedown
+  desc:     Markdown Parser in PHP
   author:   Emanuil Rusev et al
   formats:  [html]
   github:   erusev/parsedown
@@ -28,6 +32,7 @@
     stars:  3139
 
 - title:    PHP Markdown
+  desc:     Parser for Markdown and Markdown Extra 
   author:   Michel Fortin et al
   formats:  [html]
   github:   michelf/php-markdown
@@ -36,42 +41,20 @@
   stats:
     stars:  2108
 
-- title:    Python-Markdown
-  author:   Waylan Limberg
-  formats:  [html]
-  github:   waylan/Python-Markdown
-  web:      https://pythonhosted.org/Markdown/
-  language: python
-  stats:
-    stars:  867
 
-- title:    Libsoldout
-  author:   Natasha Kerensikova
-  formats:  [html,latex,mdoc]
-  github:   faelys/libsoldout
-  language: c
-  stats:
-    stars:  32
-
-- title:    Mistune
-  author:   Hsiaoming Yang
-  formats:  [html]
-  github:   lepture/mistune
-  web:      http://mistune.readthedocs.org/
-  language: python
-  stats:
-    stars:  631
-  
 - title:    Blackfriday
-  author:   Russ Ross
+  desc:     A markdown processor for Go
+  author:   Russ Ross et al
   formats:  [html]
   github:   russross/blackfriday
   language: go
   stats:
     stars:  1794
 
+
 - title:    python markdown2
-  author:   Trent Mick
+  desc:     A fast and complete implementation of Markdown in Python
+  author:   Trent Mick et al
   formats:  [html]
   github:   trentm/python-markdown2
   language: python
@@ -79,6 +62,7 @@
     stars:  1062
   
 - title:    kramdown
+  desc:     A fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions
   author:   Thomas Leitner et al
   formats:  [html,latex]
   github:   gettalong/kramdown  
@@ -90,7 +74,30 @@
     downloads: 4632790
 
 
+- title:    Python-Markdown
+  desc:     A Python implementation of Markdown
+  author:   Waylan Limberg et al
+  formats:  [html]
+  github:   waylan/Python-Markdown
+  web:      https://pythonhosted.org/Markdown
+  language: python
+  stats:
+    stars:  867
+
+
+- title:    Mistune
+  desc:     The fastest markdown parser in pure Python with renderer feature, inspired by marked and misaka
+  author:   Hsiaoming Yang et al
+  formats:  [html]
+  github:   lepture/mistune
+  web:      http://mistune.readthedocs.org
+  language: python
+  stats:
+    stars:  631
+  
+
 - title:    commonmark.js
+  desc:     CommonMark parser and renderer in JavaScript
   author:   John MacFarlane et al
   formats:  [html]
   github:   jgm/commonmark.js
@@ -100,6 +107,7 @@
     stars:   288
 
 - title:    cmark
+  desc:     CommonMark parsing and rendering library and program in C
   author:   John MacFarlane et al
   formats:  [html]
   github:   jgm/cmark
@@ -109,6 +117,7 @@
 
 
 - title:    MultiMarkdown (MMD) v5
+  desc:     Reference implementation of MultiMarkdown; replaces MultiMarkdown v4
   author:   Fletcher T. Penney et al
   formats:  [html,latex]
   github:   fletcher/MultiMarkdown-5
@@ -118,8 +127,18 @@
     stars:  70
 
 
+- title:    Libsoldout
+  desc:     Flexible C library for markdown parsing
+  author:   Natasha Kerensikova et al
+  formats:  [html,latex]
+  github:   faelys/libsoldout
+  language: c
+  stats:
+    stars:  32
+
 
 - title:    Markdent
+  desc:     An event-based Markdown parser toolkit
   author:   Dave Rolsky et al
   formats:  [html]
   github:   autarch/Markdent
