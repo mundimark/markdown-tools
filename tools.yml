@@ -36,6 +36,39 @@
   stats:
     stars:  2108
 
+- title:    Python-Markdown
+  author:   Waylan Limberg
+  formats:  [html]
+  github:   waylan/Python-Markdown
+  web:      https://pythonhosted.org/Markdown/
+  language: python
+  stats:
+    stars:  867
+
+- title:    Libsoldout
+  author:   Natasha Kerensikova
+  formats:  [html,latex,mdoc]
+  github:   faelys/libsoldout
+  language: c
+  stats:
+    stars:  32
+
+- title:    Mistune
+  author:   Hsiaoming Yang
+  formats:  [html]
+  github:   lepture/mistune
+  web:      http://mistune.readthedocs.org/
+  language: python
+  stats:
+    stars:  631
+  
+- title:    Blackfriday
+  author:   Russ Ross
+  formats:  [html]
+  github:   russross/blackfriday
+  language: go
+  stats:
+    stars:  1794
 
 - title:    python markdown2
   author:   Trent Mick
