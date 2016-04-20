@@ -1,6 +1,6 @@
 
 - title:    marked
-  desc:     A markdown parser and compiler. Built for speed.
+  desc:     A markdown parser and compiler. Built for speed
   author:   Christopher Jeffrey et al
   github:   chjj/marked
   formats:  [html]
@@ -16,6 +16,7 @@
   formats:  [html,latex]
   github:   jgm/pandoc
   web:      http://pandoc.org
+  package:  https://hackage.haskell.org/package/pandoc
   language: haskell
   stats:    
     stars:  6017
@@ -27,6 +28,7 @@
   formats:  [html]
   github:   erusev/parsedown
   web:      http://parsedown.org
+  package:  https://packagist.org/packages/erusev/parsedown
   language: php
   stats:
     stars:  3139
@@ -37,10 +39,22 @@
   formats:  [html]
   github:   michelf/php-markdown
   web:      https://michelf.ca/projects/php-markdown
+  package:  https://packagist.org/packages/michelf/php-markdown
   language: php
   stats:
     stars:  2108
 
+
+- title:    markdown-it
+  desc:     "Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed"
+  author:   Vitaly Puzrin et al
+  github:   markdown-it/markdown-it
+  web:      https://markdown-it.github.io
+  package:  https://www.npmjs.com/package/markdown-it
+  formats:  [html]
+  language: javascript
+  stats:
+    stars:  2070
 
 - title:    Blackfriday
   desc:     A markdown processor for Go
@@ -57,6 +71,7 @@
   author:   Trent Mick et al
   formats:  [html]
   github:   trentm/python-markdown2
+  package:  https://pypi.python.org/pypi/markdown2
   language: python
   stats:
     stars:  1062
@@ -80,6 +95,7 @@
   formats:  [html]
   github:   waylan/Python-Markdown
   web:      https://pythonhosted.org/Markdown
+  package:  https://pypi.python.org/pypi/Markdown
   language: python
   stats:
     stars:  867
@@ -91,10 +107,23 @@
   formats:  [html]
   github:   lepture/mistune
   web:      http://mistune.readthedocs.org
+  package:  https://pypi.python.org/pypi/mistune
   language: python
   stats:
     stars:  631
   
+  
+- title:    Remark
+  desc:     Markdown processor powered by plugins
+  author:   Titus Wormer et al
+  formats:  [html]
+  github:   wooorm/remark
+  web:      http://remark.js.org
+  package:  https://www.npmjs.com/package/remark
+  language: javascript
+  stats:
+    stars:  548
+
 
 - title:    commonmark.js
   desc:     CommonMark parser and renderer in JavaScript
@@ -142,6 +171,7 @@
   author:   Dave Rolsky et al
   formats:  [html]
   github:   autarch/Markdent
+  package:  http://search.cpan.org/dist/Markdent
   language: perl
   stats:
     stars:  4
