@@ -138,7 +138,7 @@
 - title:    cmark
   desc:     CommonMark parsing and rendering library and program in C
   author:   John MacFarlane et al
-  formats:  [html]
+  formats:  [html,latex]
   github:   jgm/cmark
   language: c
   stats:
