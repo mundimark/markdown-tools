@@ -1,4 +1,6 @@
-# Markdown Tools - Add Your Markdown Tool!
+Open Source Plain Text to HTML n LaTeX Converter Tools n Libraries
+
+# Markdown Tools - Add Your Tool!
 
 Markdown Tools Directory - see it live @ [`manuscripts.github.io/markdown-tools`](http://manuscripts.github.io/markdown-tools)
 
