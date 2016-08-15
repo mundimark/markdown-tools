@@ -2,13 +2,13 @@ Open Source Plain Text to HTML n LaTeX Converter Tools n Libraries
 
 # Markdown Tools - Add Your Tool!
 
-Markdown Tools Directory - see it live @ [`manuscripts.github.io/markdown-tools`](http://manuscripts.github.io/markdown-tools)
+Markdown Tools Directory - see it live @ [`mundimark.github.io/markdown-tools`](http://mundimark.github.io/markdown-tools)
 
 
 ## How-To Add Your Tools
 
-* Fork the [`/markdown-tools`](https://github.com/manuscripts/markdown-tools) repo on GitHub
-* Add a new entry in the [`tools.yml`](https://github.com/manuscripts/markdown-tools/blob/master/tools.yml) file and fill out all fields.
+* Fork the [`/markdown-tools`](https://github.com/mundimark/markdown-tools) repo on GitHub
+* Add a new entry in the [`tools.yml`](https://github.com/mundimark/markdown-tools/blob/master/tools.yml) file and fill out all fields.
   Example:
 
 ``` yaml
